@@ -8,6 +8,7 @@ export const locations = {
   SCL: 'Santiago de Chile',
   MEL: 'Melbourne',
   SIN: 'Singapore',
+  MAD: 'Madrid',
 }
 
 export async function getKVMonitors() {
